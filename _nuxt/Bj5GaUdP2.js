@@ -1,0 +1,1 @@
+import{ls as i,qt as t}from"./C9XO-iOx.js";var o=i("position",()=>{const i=t({prefix:"position",defaultFixedWidth:300});return{...i,visible:i.visible,positionBoundingRect:i.boundingRect}});export{o as t};

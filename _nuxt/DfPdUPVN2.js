@@ -1,0 +1,1 @@
+import{k as i}from"./BcKgMlmf.js";import{Fa as o}from"./2V71dP41.js";var t=i("position",()=>{const i=o({prefix:"position",defaultFixedWidth:300});return{...i,visible:i.visible,positionBoundingRect:i.boundingRect}});export{t};

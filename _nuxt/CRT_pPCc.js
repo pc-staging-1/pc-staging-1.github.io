@@ -1,0 +1,1 @@
+import{p as s}from"./DDzvYQn7.js";import{B as a,Ct as t,E as r,P as m,Vt as o,tt as p,w as e}from"./ci5gUNoE.js";import{t as n}from"./CCcrjyCX.js";a(),t();var x=m({__name:"@[x]",setup(a){const t=s(),m=e(()=>String(t.params.x||""));return(s,a)=>(p(),r(n,{x:o(m)},null,8,["x"]))}});export{x as default};

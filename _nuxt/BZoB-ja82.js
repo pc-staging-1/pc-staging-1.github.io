@@ -1,0 +1,1 @@
+import{Ct as r,Mt as t}from"./ci5gUNoE.js";import{g as e}from"./DruoIGwA.js";import{Rr as o}from"./BJCU48oz.js";r();var s=e("callFeed",()=>{const r=o({prefix:"callFeed",defaultFixedWidth:438}),e=t(!1);return{...r,followDot:e,visible:r.visible}});export{s as t};

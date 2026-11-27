@@ -1,0 +1,1 @@
+import{y as e}from"./DBm-5V0t.js";import{U as i}from"./Cyr8IFlT.js";var o=e("favToken",()=>{const e=i({prefix:"favToken",defaultFixedWidth:300});return{...e,visible:e.visible,favTokenBoundingRect:e.boundingRect}});export{o as t};

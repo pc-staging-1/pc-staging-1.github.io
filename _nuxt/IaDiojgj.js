@@ -1,0 +1,1 @@
+import{y as i}from"./DBm-5V0t.js";import{U as o}from"./Cyr8IFlT.js";var t=i("position",()=>{const i=o({prefix:"position",defaultFixedWidth:300});return{...i,visible:i.visible,positionBoundingRect:i.boundingRect}});export{t};

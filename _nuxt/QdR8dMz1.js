@@ -1,0 +1,1 @@
+import{p as s}from"./DDzvYQn7.js";import{B as a,Ct as t,E as r,P as o,Vt as e,tt as m,w as p}from"./ci5gUNoE.js";import{t as c}from"./C4z8M2-o.js";a(),t();var d=o({__name:"[code]",setup(a){const t=s(),o=p(()=>String(t.params.code||""));return(s,a)=>(m(),r(c,{code:e(o)},null,8,["code"]))}});export{d as default};

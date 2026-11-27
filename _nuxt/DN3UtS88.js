@@ -1,0 +1,1 @@
+import{B as s,O as a,P as t,Yt as c,at as e,cn as o,tt as p}from"./ci5gUNoE.js";import{t as r}from"./DgLP3hnZ.js";s(),c();var i=r(t({__name:"DexTag",props:{kind:{}},setup:s=>(t,c)=>(p(),a("span",{class:o(["cc-dex-tag","success"===s.kind?"is-success":"is-primary"])},[e(t.$slots,"default",{},void 0,!0)],2))}),[["__scopeId","data-v-24b8b167"]]);export{i as t};

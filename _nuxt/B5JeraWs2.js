@@ -1,0 +1,1 @@
+import"./Bllz2UrH.js";var r=""+new URL("logo.BvMAEY2T.svg",import.meta.url).href;export{r as t};

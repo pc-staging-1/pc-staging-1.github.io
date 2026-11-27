@@ -1,0 +1,1 @@
+import{Ct as t,St as s,kt as o,xt as r}from"./ci5gUNoE.js";function n(){const t=s();let n;return t&&o(()=>n?.stop()),s=>(n?.stop(),n=t?t.run(()=>r()):r(!0),n.run(s))}t();export{n as t};

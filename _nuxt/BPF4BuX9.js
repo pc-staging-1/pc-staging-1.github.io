@@ -1,0 +1,1 @@
+import{B as s,G as o,gt as a}from"./ci5gUNoE.js";import{f as t,g as r}from"./DBm-5V0t.js";function f(s){const f=t();a(()=>r(f.locale),()=>{o(()=>{s()})})}s();export{f as t};
